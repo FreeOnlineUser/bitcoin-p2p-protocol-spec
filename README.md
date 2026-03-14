@@ -2,7 +2,7 @@
 
 A complete, LLM-executable specification for building a Bitcoin full node P2P client from scratch. No external P2P libraries, just raw TCP and the Bitcoin wire protocol.
 
-Inspired by [@SteveSimple](https://x.com/SteveSimple)'s suggestion that someone should build a from-scratch Bitcoin node client. This spec was generated with Claude and is designed to be handed to any LLM with the instruction: *"Implement this exactly as specified."*
+Inspired by [@calibrated_lies](https://x.com/calibrated_lies)' observation that Bitcoin deserves a protocol specification independent of any software implementation, and [@SteveSimple](https://x.com/SteveSimple)'s suggestion to build a node client from scratch. This spec was generated with Claude and is designed to be handed to any LLM with the instruction: *"Implement this exactly as specified."*
 
 ## What This Covers
 
