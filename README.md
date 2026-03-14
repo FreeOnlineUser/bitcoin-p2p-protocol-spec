@@ -25,7 +25,7 @@ Inspired by [@SteveSimple](https://x.com/SteveSimple)'s suggestion that someone 
 
 ## Target
 
-The reference implementation targets **Node.js >= 18 (ESM)** with a single dependency (`bs58check`), but the protocol specification is language-agnostic. Hand it to any LLM targeting Kotlin, Rust, Python, Go, etc.
+The specification is entirely language-agnostic. Hand it to any LLM targeting Node.js, Kotlin, Rust, Python, Go, or any other language.
 
 ## Usage
 
