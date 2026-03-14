@@ -1,4 +1,4 @@
-# Bitcoin P2P Protocol: Implementation Specification
+# Bitcoin P2P Protocol Specification
 
 A complete, LLM-executable specification for building a Bitcoin full node P2P client from scratch. No external P2P libraries, just raw TCP and the Bitcoin wire protocol.
 
